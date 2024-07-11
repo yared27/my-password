@@ -19,10 +19,10 @@ A simple password manager application built with Python and Tkinter. This applic
 ## Installation
 
 1. Clone the repository to your local machine:
-
-```bash
 git clone https://github.com/yared27/password-manager.git
 cd password-manager
+
+
 2.Install the required libraries:
 pip install pyperclip
 Usage
@@ -36,7 +36,6 @@ Password: Enter your password or click "Generate Password" to create a strong pa
 Add: Save the entered credentials.
 Search: Search for saved credentials by website name.
 3.All saved credentials are stored in data.json in the application's directory.
-Screenshots
-![image](https://github.com/yared27/my-password/assets/127246071/6e4b4530-bf85-42c2-bc61-d48c181cfb0e)
+
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
